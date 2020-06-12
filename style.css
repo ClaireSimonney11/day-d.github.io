@@ -1,19 +1,19 @@
 body {
-  background: #ee9ca7;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #cb6c6c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #cb6c6c, #cb6c6c);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #cb6c6c, #cb6c6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   font-family: arial;
   margin: 0px;
 }
 
 h1 {
-  font-family: 'Pacifico', cursive;
-  font-size: 32px;
+  font-family: 'Big Caslon', cursive;
+  font-size: 48px;
 }
 
 h2, h3, h4 {
-  font-family: 'Pacifico', cursive;
-  font-size: 28px;
+  font-family: 'Big Caslon', cursive;
+  font-size: 25px;
 }
 
 a, a:hover {
@@ -25,8 +25,8 @@ p, ul, ol {
 }
 
 .cadre {
-  background: #E2F3DC;
-  border: 3px solid #C1E6B6;
+  background: #f8e8e8;
+  border: 3px solid #544c4c;
   margin: 20px 100px;
   padding: 30px 70px;
   border-radius: 5px;
@@ -50,7 +50,7 @@ p, ul, ol {
 }
 
 .color-green {
-  color: #458D2E;
+  color: #000000;
 }
 
 .btn-pink {
@@ -105,7 +105,7 @@ p, ul, ol {
 .line-light {
   height: 5px;
   width: 20%;
-  background: #EE9CA7;
+  background: #f8e8e8;
 }
 
 .line-medium {
@@ -128,8 +128,8 @@ p, ul, ol {
 }
 
 .cadre-preparartion {
-  background: #E2F3DC;
-  border: 3px solid #C1E6B6;
+  background: #f8e8e8;
+  border: 3px solid #544c4c;
   margin: 0px 0px 0px 10px;
   padding: 30px 70px;
   border-radius: 5px;
@@ -137,8 +137,8 @@ p, ul, ol {
 }
 
 .cadre-ingredients {
-  background: #E2F3DC;
-  border: 3px solid #C1E6B6;
+  background: #f8e8e8;
+  border: 3px solid #544c4c;
   margin: 0px 10px 0px 0px;
   padding: 30px 70px;
   border-radius: 5px;
@@ -156,4 +156,5 @@ p, ul, ol {
   font-size: 40px;
   color: green;
 }
+
 
